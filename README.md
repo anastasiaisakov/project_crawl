@@ -42,6 +42,6 @@ ADD - adding local files (main.py) to the docker image
 CMD - runs the main.py app 
 
 
-- I wasn't sure how to create the distributed crawler and due to technical issues with my laptop, I didn't have enough time to evaluate all of the tasks. But I am surely going to continue researching how to do all of the tasks 
+- I wasn't sure how to create the distributed crawler and due to technical issues with my laptop, I didn't have enough time to evaluate all of the tasks. But I am surely going to continue researching how to complete all of the them. 
 
 
