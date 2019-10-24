@@ -15,6 +15,9 @@ It encrypts the data that’s being transmitted
 5. Listen to the network traffic and enter the app on the ios device. 
   In my case, I've chosen the API with a list of the newest articles. 
 6. Copy the cURL request and convert it into a Python request 
+
+Step 2 
+
 7. In PyCharm -> receive a json file by sending a get request 
 8. Generate a json file with all of the articles received 
 9. zip the result and generate a zipfile 
